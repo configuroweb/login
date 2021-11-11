@@ -3,7 +3,7 @@
 
 Se explica el proceso a cabalidad para configurar registro de nuevos usuarios, cambio de contraseña y validaciones con usuario existente en el siguiente enlace esta documentado todo, más la puesta a punto en un servidor local:
 
-https://www.configuroweb.com/registro-y-login-de-usuarios-con-php-y-mysql/
+https://www.configuroweb.com/46-aplicaciones-gratuitas-en-php-python-y-javascript/#registro-y-login-de-usuario
 
 # Contáctame
 
